@@ -1,4 +1,4 @@
-# ESLint Error
+# Gulp ESLint Error
 
 ## Run lint task
 
