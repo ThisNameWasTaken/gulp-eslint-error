@@ -11,6 +11,7 @@
   "author": "Adrian Dinca",
   "license": "MIT",
   "devDependencies": {
+    "babel-eslint": "^10.0.1",
     "eslint": "^5.13.0",
     "gulp": "^4.0.0",
     "gulp-cli": "^2.0.1",
